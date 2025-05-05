@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hey there, I'm Ian! 👋
 
 <!--
 **ianyoung03/ianyoung03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,16 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### A bit about me:
+- CS @ UWaterloo, BBA @ Laurier
+- Working on [Fitdrop](https://play.google.com/store/apps/details?id=fitdrop.androidapp&hl=en_CA) alongside some **_incredible_** teammates
+- Running varsity cross country & track 🏃‍♂️
+- looking for my next swe internship!
+
+
+
+
+
+
+
