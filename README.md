@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 - CS @ UWaterloo, BBA @ Laurier
 - Working on [Fitdrop](https://play.google.com/store/apps/details?id=fitdrop.androidapp&hl=en_CA) alongside some **_incredible_** teammates
 - Running varsity cross country & track 🏃‍♂️
-- looking for my next swe internship!
+- Looking for my next swe internship!
 
 
 
